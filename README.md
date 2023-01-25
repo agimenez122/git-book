@@ -17,7 +17,7 @@ Author: Andrés Giménez Perales
 
 ## 7. 
 
-## 8. 
+## 8. Operaciones de archivos con Git 
 
 ## 9. 
 
